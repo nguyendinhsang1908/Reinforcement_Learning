@@ -1,0 +1,4 @@
+xóa hàm betterEvalueFunction cài đạt  lại.
+mỗi map chạy 6 th.mỗi th 5 lần/10 lần/30 lần  
+cài đạt minimax agent,alphabeta agent,ExpecmaxAgent
+chạy cả 3 thuật toán vói scoreEvaluetionFncton(đã dduocj cài  đạt),betterEvaluatiiionFunction.
